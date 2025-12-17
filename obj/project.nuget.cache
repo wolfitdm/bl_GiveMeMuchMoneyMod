@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dkWC+jBTLgI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CdemyTeilnehmer\\Downloads\\BitchLand_build10e_preinstalledmods\\build10e\\Assets\\Mods\\bl_GiveMeMuchMoneyMod\\bl_GiveMeMuchMoney.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CdemyTeilnehmer\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\CdemyTeilnehmer\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net40\\1.0.2\\microsoft.netframework.referenceassemblies.net40.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
