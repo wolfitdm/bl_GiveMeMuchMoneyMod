@@ -19,7 +19,9 @@ namespace BitchLand//must have this namespace
 			if(value)
 			{//mod was enabled in the settings
 				Main.Instance.Player.Money += 90000000;
-			}
+                Main.Instance.Player.Hunger += 100;
+                Main.Instance.GameplayMenu.ShowNotification("Here 90 mio cash and 100 hunger for you");
+            }
 			else
 			{//mod was disabled in the settings
 			}
@@ -31,6 +33,7 @@ namespace BitchLand//must have this namespace
 		public void Start()
 		{
 			Main.Instance.Player.Money += 90000000;
+			Main.Instance.Player.Hunger += 100;
 		    Debug.Log((object) "bl_GiveMeMuchMoneyMod.Start() Give Me Much Money");
 		}
 
